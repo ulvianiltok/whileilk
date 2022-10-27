@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "whileilk", "whileilk\whileilk.csproj", "{850927B7-EB0D-443B-B24A-873B96987ACA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{850927B7-EB0D-443B-B24A-873B96987ACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{850927B7-EB0D-443B-B24A-873B96987ACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{850927B7-EB0D-443B-B24A-873B96987ACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{850927B7-EB0D-443B-B24A-873B96987ACA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AECEFAF1-442A-4951-BA99-9B551B4831F3}
+	EndGlobalSection
+EndGlobal
